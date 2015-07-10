@@ -48,9 +48,9 @@
         <hadoop2.version>2.6.0</hadoop2.version>
         <yarn.version>2.6.0</yarn.version>
         <zookeeper.version>3.4.6</zookeeper.version>
-        <hive.version>0.14.0</hive.version>
-        <hive-hcatalog.version>0.14.0</hive-hcatalog.version>
-        <hbase-hadoop2.version>0.98.8-hadoop2</hbase-hadoop2.version>
+        <hive.version>1.2.0</hive.version>
+        <hive-hcatalog.version>1.2.0</hive-hcatalog.version>
+        <hbase-hadoop2.version>1.0.1.1</hbase-hadoop2.version>
 
         <!-- Dependency versions -->
         <antlr.version>3.4</antlr.version>
